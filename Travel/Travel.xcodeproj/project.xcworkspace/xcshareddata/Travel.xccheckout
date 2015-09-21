@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>103912C2-B01B-4904-9E91-325CF64E5C39</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Travel</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>EE8366A59DB316F768177DABD5F43CD9EC9016E6</key>
 		<string>https://github.com/ChildeWang/Relieved.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Travel/Travel.xcodeproj/project.xcworkspace</string>
+	<string>Travel/Travel.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>EE8366A59DB316F768177DABD5F43CD9EC9016E6</key>
